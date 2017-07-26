@@ -1,0 +1,5 @@
+Analisis Forex
+
+- Montar base de datos local de divisas por meses.
+- Montar base de datos local lo mas detallado posible
+- determinar short y longs por tipos de pips (minuto,hora,dia, semana, año )
